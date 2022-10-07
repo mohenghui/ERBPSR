@@ -1,8 +1,8 @@
 # ERBPSR   
 # Requirements   
-! TODO
+- TODO
 # Training and Testing   
 ### Train   
-! TODO
+- TODO
 ### Test   
-! TODO
+- TODO
